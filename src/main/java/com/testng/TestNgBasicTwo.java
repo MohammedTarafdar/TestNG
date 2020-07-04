@@ -72,8 +72,8 @@ public class TestNgBasicTwo {
         System.out.println("Quit Browser."+" No 8");
     }
 
-    /*@AfterSuite     // 9
+    @AfterSuite     // 9
     public void generateTestReport(){
         System.out.println("Generate Test Report."+" No 9");
-    }*/
+    }
 }
